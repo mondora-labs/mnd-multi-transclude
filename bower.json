@@ -1,0 +1,25 @@
+{
+  "name": "mnd-multi-transclude",
+  "main": "multi-transclude.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mondora/multi-transclude",
+  "authors": [
+    "Paolo Scanferla <paolo.scanferla@mondora.com>"
+  ],
+  "description": "Multi-transclude directive for Angularjs",
+  "keywords": [
+    "angularjs",
+    "transclude"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
