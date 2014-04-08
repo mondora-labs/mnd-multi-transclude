@@ -2,7 +2,7 @@
   "name": "mnd-multi-transclude",
   "main": "multi-transclude.js",
   "version": "0.1.0",
-  "homepage": "https://github.com/mondora/multi-transclude",
+  "homepage": "https://github.com/mondora/mnd-multi-transclude",
   "authors": [
     "Paolo Scanferla <paolo.scanferla@mondora.com>"
   ],
